@@ -20,10 +20,8 @@ a {
 }
 
 header img {
-    width: 150px;
+    width: 350px;
     height: 250px;
-    border-radius: 50%;
-    border:5px green;
 }
 
 .center {
@@ -35,18 +33,6 @@ h1 {
     color: blue;
 }
 
-h2{
-    font-size: 30px;
-    color: white;
-}
-
 p {
     font-size: 20px;
-}
-
-footer img {
-    width: 150px;
-    height: 250px;
-    border-radius: 50%;
-    border:5px green;
 }
